@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 Interested 
 ======
-Recommender system, Natural language process, Computer vision, etc.
+&nbsp;&nbsp;&nbsp;&nbsp;Recommender system, Natural language processing, Computer vision, etc.
 
 Introduction
 ======
-  I am currently
+&nbsp;&nbsp;&nbsp;&nbsp;I am currently
 
 Education
 ======
