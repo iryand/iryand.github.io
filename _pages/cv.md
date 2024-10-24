@@ -8,38 +8,43 @@ redirect_from:
 ---
 
 {% include base_path %}
+Interested 
+======
+Recommender system, Natural language process, Computer vision, etc.
+
+Introduction
+======
+  I am currently
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electronic information, Tianjin University, 2026(expected)
+* B.S. in Electronic information science and technology, Wuhan University of Technology, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023 - 2026: Research Assistant
+  * Tianjin University
+  * Brief introduction: studying the intersection of recommender system and large language model (LLMs). Including utilize the semantic power of LLM for sequence recommendation, explainable recommender system, dialogue recommendation, etc.
+  * Supervisor: Xiang Ying
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Teaching Assistant
+  * Tianjin University
+  * Brief introduction: helping students to solve problems in the Principles of Programming course
+  * Supervisor: Xiang Ying
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2024: Teaching Assistant
+  * Tianjin University
+  * Brief introduction: helping students to solve problems in the Comprehensive Programming Practice course
+  * Supervisor: Xiang Ying
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* IELTS-x.x(x.x)
+* Programing
+  * Python
+  * C/C++
 
 Publications
 ======
